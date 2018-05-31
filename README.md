@@ -1,3 +1,3 @@
 # HTML5 Video Converter (Windows x64)
 
-Drag and drop a video onto [720p] or [1080p] script file to convert.
+Drag and drop videos onto [720p.bat] or [1080p.bat] batch file to convert.
